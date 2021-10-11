@@ -1,4 +1,4 @@
-# CNNprepoznavanjeemocija
+# CNN Prepoznavanje emocija i lica
 PROJEKAT IZ PREDMETA OSNOVE RAČUNARSKE INTELIGENCIJE NA TEMU PREPOZNAVANJE EMOCIJA PUTEM KONVOLUCIONE NEURONSKE MREŽE 
 Trenira se 15 epoha i ima preciznost od 57%
 Potrebne biblioteke:
